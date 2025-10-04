@@ -29,7 +29,7 @@ Write and implement Python code that integrates with multiple AI tools to automa
 
 ## Python Code Implementation:
 
-```
+```py
 import requests
 import json
 import openai
